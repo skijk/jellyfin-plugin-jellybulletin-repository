@@ -9,6 +9,17 @@
     "imageUrl": "https://raw.githubusercontent.com/skijk/jellyfin-plugin-jellybulletin-repository/main/logo-v2.png",
     "versions": [
       {
+        "version": "0.3.1.0",
+        "changelog": "Fix schedule field validation and show the browser timezone used for publish and unpublish times.",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://github.com/skijk/jellyfin-plugin-jellybulletin-repository/releases/download/0.3.1.0/JellyBulletin_0.3.1.0_jf10.11.11.zip",
+        "checksum": "921C272294AF6C0D85C003D1D657BB9A",
+        "timestamp": "2026-07-28T23:36:56Z",
+        "dependencies": [
+          "5e87cc92-571a-4d8d-8d98-d2d4147f9f90"
+        ]
+      },
+      {
         "version": "0.3.0.0",
         "changelog": "Public beta: configurable rotation, accessible pause controls, scheduling, pinning, drag sorting, image alt text, and content overflow guidance.",
         "targetAbi": "10.11.0.0",
