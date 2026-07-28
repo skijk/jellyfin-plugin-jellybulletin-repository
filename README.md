@@ -1,7 +1,7 @@
 # JellyBulletin Plugin Repository
 
 <p align="center">
-  <img src="logo.png" alt="JellyBulletin" width="220">
+  <img src="logo-v2.png" alt="JellyBulletin" width="220">
 </p>
 
 Public distribution repository for JellyBulletin releases.
