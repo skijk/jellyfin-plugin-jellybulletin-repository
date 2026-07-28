@@ -8,4 +8,11 @@ Add the following URL under **Dashboard → Plugins → Repositories** in Jellyf
 https://raw.githubusercontent.com/skijk/jellyfin-plugin-jellybulletin-repository/main/manifest.json
 ```
 
+JellyBulletin requires File Transformation. Add its repository as well and
+install File Transformation before JellyBulletin:
+
+```text
+https://www.iamparadox.dev/jellyfin/plugins/manifest.json
+```
+
 The JellyBulletin source repository remains private during development.
