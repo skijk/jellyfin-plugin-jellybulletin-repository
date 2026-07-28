@@ -19,4 +19,6 @@ install File Transformation before JellyBulletin:
 https://www.iamparadox.dev/jellyfin/plugins/manifest.json
 ```
 
-The JellyBulletin source repository remains private during development.
+Source code, documentation and issue tracking:
+
+https://github.com/skijk/jellyfin-plugin-jellybulletin
