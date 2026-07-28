@@ -1,5 +1,9 @@
 # JellyBulletin Plugin Repository
 
+<p align="center">
+  <img src="logo.png" alt="JellyBulletin" width="220">
+</p>
+
 Public distribution repository for JellyBulletin releases.
 
 Add the following URL under **Dashboard → Plugins → Repositories** in Jellyfin:

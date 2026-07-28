@@ -6,6 +6,7 @@
     "description": "Publish formatted news and service messages to every Jellyfin user. The latest item is displayed by default and up to five recent items remain available.",
     "owner": "skijk",
     "category": "General",
+    "imageUrl": "https://raw.githubusercontent.com/skijk/jellyfin-plugin-jellybulletin-repository/main/logo.png",
     "versions": [
       {
         "version": "0.1.2.0",
