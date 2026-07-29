@@ -9,12 +9,12 @@
     "imageUrl": "https://raw.githubusercontent.com/skijk/jellyfin-plugin-jellybulletin-repository/main/logo-card.png",
     "versions": [
       {
-        "version": "0.3.17.0",
-        "changelog": "Use a lower, denser text-only panel and show two separate announcements side by side on wide screens while retaining a single mobile view.",
+        "version": "0.3.18.0",
+        "changelog": "Prevent browser Basic Auth prompts by displaying only locally uploaded bulletin images instead of loading protected third-party URLs directly.",
         "targetAbi": "10.11.0.0",
-        "sourceUrl": "https://github.com/skijk/jellyfin-plugin-jellybulletin-repository/releases/download/0.3.17.0/JellyBulletin_0.3.17.0_jf10.11.11.zip",
-        "checksum": "67410FEEC9D9C3AC63D95C6606E84596",
-        "timestamp": "2026-07-29T22:01:07Z",
+        "sourceUrl": "https://github.com/skijk/jellyfin-plugin-jellybulletin-repository/releases/download/0.3.18.0/JellyBulletin_0.3.18.0_jf10.11.11.zip",
+        "checksum": "9AA7BBE6950CC1183A7BB898A2937443",
+        "timestamp": "2026-07-29T22:58:02Z",
         "dependencies": [
           "5e87cc92-571a-4d8d-8d98-d2d4147f9f90"
         ]
