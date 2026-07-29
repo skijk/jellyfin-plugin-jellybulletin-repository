@@ -9,6 +9,17 @@
     "imageUrl": "https://raw.githubusercontent.com/skijk/jellyfin-plugin-jellybulletin-repository/main/logo-card.png",
     "versions": [
       {
+        "version": "0.3.16.0",
+        "changelog": "Add a global Show images setting. Hidden images remain attached to bulletins while the home screen uses a lower text-focused panel.",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://github.com/skijk/jellyfin-plugin-jellybulletin-repository/releases/download/0.3.16.0/JellyBulletin_0.3.16.0_jf10.11.11.zip",
+        "checksum": "9448A6F56F9CA2D146A1880EDD421C86",
+        "timestamp": "2026-07-29T21:47:25Z",
+        "dependencies": [
+          "5e87cc92-571a-4d8d-8d98-d2d4147f9f90"
+        ]
+      },
+      {
         "version": "0.3.15.0",
         "changelog": "Resize and center the JellyBulletin plugin artwork on a dark 16:9 canvas with safe spacing for a consistent Jellyfin plugin-card presentation.",
         "targetAbi": "10.11.0.0",
