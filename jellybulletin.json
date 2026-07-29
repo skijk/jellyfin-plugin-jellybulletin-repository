@@ -9,6 +9,17 @@
     "imageUrl": "https://raw.githubusercontent.com/skijk/jellyfin-plugin-jellybulletin-repository/main/logo-v2.png",
     "versions": [
       {
+        "version": "0.3.10.0",
+        "changelog": "Clean cross-platform package without macOS resource-fork files. Includes the rich-text persistence fixes from 0.3.9.0.",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://github.com/skijk/jellyfin-plugin-jellybulletin-repository/releases/download/0.3.10.0/JellyBulletin_0.3.10.0_jf10.11.11.zip",
+        "checksum": "458D8AFD541F3B517C7E8589DBEEFB04",
+        "timestamp": "2026-07-29T00:40:12Z",
+        "dependencies": [
+          "5e87cc92-571a-4d8d-8d98-d2d4147f9f90"
+        ]
+      },
+      {
         "version": "0.3.9.0",
         "changelog": "Preserve rich-text formatting after saving, including bold, italic, underline, colors, links, bullet lists, and numbered lists.",
         "targetAbi": "10.11.0.0",
