@@ -9,6 +9,17 @@
     "imageUrl": "https://raw.githubusercontent.com/skijk/jellyfin-plugin-jellybulletin-repository/main/logo-card.png",
     "versions": [
       {
+        "version": "0.3.21.0",
+        "changelog": "Development build: add Adaptive content-based panel height and per-bulletin Prominent, Compact, or Hidden title styles.",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://github.com/skijk/jellyfin-plugin-jellybulletin-repository/releases/download/dev-0.3.21.0/JellyBulletin_0.3.21.0_jf10.11.11.zip",
+        "checksum": "489111FDCA952D7324E69C7C0287DE4F",
+        "timestamp": "2026-08-02T21:36:58Z",
+        "dependencies": [
+          "5e87cc92-571a-4d8d-8d98-d2d4147f9f90"
+        ]
+      },
+      {
         "version": "0.3.20.0",
         "changelog": "Synchronize the development catalog with the public 0.3.20 release and clarify dependencies.",
         "targetAbi": "10.11.0.0",
