@@ -9,6 +9,17 @@
     "imageUrl": "https://raw.githubusercontent.com/skijk/jellyfin-plugin-jellybulletin-repository/main/logo-card.png",
     "versions": [
       {
+        "version": "0.3.21.0",
+        "changelog": "Add Adaptive content-based panel height and per-bulletin Prominent, Compact, or Hidden title styles. Existing configurations keep their previous Standard height and Prominent titles.",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://github.com/skijk/jellyfin-plugin-jellybulletin-repository/releases/download/0.3.21.0/JellyBulletin_0.3.21.0_jf10.11.11.zip",
+        "checksum": "489111FDCA952D7324E69C7C0287DE4F",
+        "timestamp": "2026-08-02T21:46:50Z",
+        "dependencies": [
+          "5e87cc92-571a-4d8d-8d98-d2d4147f9f90"
+        ]
+      },
+      {
         "version": "0.3.20.0",
         "changelog": "Publish the current text-only, compact two-item and external image URL features as a stable release. Clarifies required File Transformation and optional JellySpotlight integration.",
         "targetAbi": "10.11.0.0",
