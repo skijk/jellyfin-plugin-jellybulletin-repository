@@ -9,6 +9,17 @@
     "imageUrl": "https://raw.githubusercontent.com/skijk/jellyfin-plugin-jellybulletin-repository/main/logo-card.png",
     "versions": [
       {
+        "version": "0.3.22.0",
+        "changelog": "Development build: follow Jellyfin and custom CSS themes across the home panel, editor controls, and live preview; add inherited --bulletin-* theme hooks.",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://github.com/skijk/jellyfin-plugin-jellybulletin-repository/releases/download/dev-0.3.22.0/JellyBulletin_0.3.22.0_jf10.11.11.zip",
+        "checksum": "930754D660B935850543473F2280F967",
+        "timestamp": "2026-08-06T19:21:34Z",
+        "dependencies": [
+          "5e87cc92-571a-4d8d-8d98-d2d4147f9f90"
+        ]
+      },
+      {
         "version": "0.3.21.0",
         "changelog": "Development build: add Adaptive content-based panel height and per-bulletin Prominent, Compact, or Hidden title styles.",
         "targetAbi": "10.11.0.0",
